@@ -1,0 +1,1 @@
+{"name":"euro20-500-odds-relay","version":"1.0.0","private":true,"type":"commonjs","scripts":{"start":"node server.js"},"dependencies":{"express":"^5.1.0"}}
